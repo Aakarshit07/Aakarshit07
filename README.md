@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aakarshit Choudhary</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Frontend Developer specializing in crafting seamless, user-centric web applications. Proficient in React, Redux, and modern development tools, with a focus on performance optimization and scalable architecture.</h3>
 
 - 🔭 I’m currently working on [whisperly](https://github.com/Aakarshit07/whisperly)
 
